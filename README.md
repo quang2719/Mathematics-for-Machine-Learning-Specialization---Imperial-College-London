@@ -5,7 +5,8 @@
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)
 
 This repository contains a curated collection of learning resources from the Mathematics for Machine Learning Specialization offered by Imperial College London on Coursera. The aim is to provide a comprehensive and accessible resource for anyone interested in mastering the mathematical foundations of machine learning.
-
+## Certificate
+[![My Certificate](https://github.com/quang2719/Mathematics-for-Machine-Learning-Specialization---Imperial-College-London/blob/main/Certificate/certificate_img.png?raw=true)](https://github.com/quang2719/Mathematics-for-Machine-Learning-Specialization---Imperial-College-London/blob/main/Certificate/certificate_img.png?raw=true) <br>
 ## 📚 Specialization Overview
 
 This specialization is designed to bridge the gap between theoretical mathematics and practical machine learning applications. It covers essential mathematical concepts and techniques that are crucial for understanding and implementing machine learning algorithms.
